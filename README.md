@@ -9,3 +9,5 @@ https://x.thunkable.com/projects/60768805ca30dc0011540ed8/bc3296ee-6b4f-450a-8b6
 
 Docs to refer:
 https://www.includehelp.com/code-snippets/javascript-to-detect-whether-page-is-load-on-mobile-or-desktop.aspx
+
+https://www.w3schools.com/tags/tag_meta.asp
