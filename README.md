@@ -11,3 +11,5 @@ Docs to refer:
 https://www.includehelp.com/code-snippets/javascript-to-detect-whether-page-is-load-on-mobile-or-desktop.aspx
 
 https://www.w3schools.com/tags/tag_meta.asp
+
+https://stackoverflow.com/questions/22777734/what-is-initial-scale-user-scalable-minimum-scale-maximum-scale-attribute-in
