@@ -13,3 +13,6 @@ https://www.includehelp.com/code-snippets/javascript-to-detect-whether-page-is-l
 https://www.w3schools.com/tags/tag_meta.asp
 
 https://stackoverflow.com/questions/22777734/what-is-initial-scale-user-scalable-minimum-scale-maximum-scale-attribute-in
+
+To do list:
+c33 - Github and making mobile compatible
